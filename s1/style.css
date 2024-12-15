@@ -1,0 +1,16 @@
+header {
+  background-color: gold;
+}
+
+table th,
+table td {
+  border: 1px solid #000;
+  padding: 10px;
+  text-align: center;
+}
+
+div a {
+  display: block;
+  padding: 5px;
+  color: green;
+}

@@ -1,0 +1,27 @@
+Créer une mini application de gestion des étudiants.
+
+Avec elle on pourra : 
+
+Ajouter un étudiant
+Modifier un étudiant
+Supprimer un étudiant
+Filter les étudiants
+
+Ajouter des notes
+-Modifier
+supprimer des notes
+
+Afficher le tout
+
+
+Etudiant : 
+- Id
+- Nom
+- Age
+- Notes [3]
+- Moyenne
+
+Note : 
+- Id
+- Note
+- Id Etudiant
