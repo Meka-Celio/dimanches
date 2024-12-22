@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10px 30px;
+}
+
+form p {
+  margin: 12px 0;
+}
+
+label,
+input {
+  display: block;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  padding: 5px 15px;
+}
+
+th,
+td {
+  text-align: center;
+  padding: 10px 15px;
+}
+
+table thead tr th {
+  background-color: rgb(99, 28, 99);
+  color: #fff;
+}
+
+td {
+  background-color: #f1e6e6;
+}
